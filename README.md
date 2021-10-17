@@ -28,5 +28,5 @@ Arapahoe:  6.7% (24,801)
 ##Largest County Turnout:  Denver
 
 
-
+This script can be used for any election by modifying the dataset (.csv file) and how the data is indexzed.  
 
